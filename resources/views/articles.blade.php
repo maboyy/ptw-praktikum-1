@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
- 		<title>Tugas 3</title>
+ 		<title>Praktikum1</title>
  		<link rel="stylesheet" type="text/css" href="{{asset('dist/style.css')}}">
 	</head>
 <body>
@@ -20,15 +20,22 @@
 
 	<div class="content">
 	<h1>Framework Codeingniter :</h1>
-       <ol>
-           Fungsi Codeingniter :
-<ol>Mempercepat dan mempermudah kita dalam pembuatan website.</ol> 
-<ol>Menghasilkan struktur pemrograman yang sangat rapi, baik dari segi kode maupun struktur file phpnya.</ol>
-<ol>Memberikan standar coding sehingga memudahkan kita atau orang lain untuk mempelajari kembali system aplikasi yang dibangun.</ol>
+    <ul type="square">
+        <li>  Fungsi Codeingniter :
+        </li>
+        <ul>
+    <ol>Mempercepat dan mempermudah kita dalam pembuatan website.</ol>
+    <ol>Menghasilkan struktur pemrograman yang sangat rapi, baik dari segi kode maupun struktur file phpnya.</ol>
+    <ol>Memberikan standar coding sehingga memudahkan kita atau orang lain untuk mempelajari kembali system aplikasi yang dibangun.</ol>
+        
+    </ul>
+    </ul> 
 
-
-Kelebihan CodeIgniter :
-<ol>Berukuran sangat kecil.</ol> 
+    <ul type="square">
+        <li>  Kelebihan CodeIgniter :
+        </li>
+        <ul>
+        <ol>Berukuran sangat kecil.</ol> 
 <ol>File download nya hanya sekitar 2MB, itupun sudah includedokumentasinya yang sangat lengkap.</ol>
 <ol>Dokumentasi yang bagus. Saat anda mendownloadnya, telah disertakan dengan dokumentasi yang berisi pengantar, tutorial, bagaimana panduan penggunaan, serta referensi dokumentasi untuk komponen-komponennya Kompitabilitas dengan Hosting.</ol> 
 <ol>CodeIgniter mampu berjalan dengan baik pada hampir semua platfom hosting.</ol> 
@@ -38,15 +45,21 @@ Kelebihan CodeIgniter :
 <ol>Sangat mudah diintegrasikan. CodeIgniter sangat mengerti tentang pengembangan berbagai library saat ini.</ol> 
  <ol>Karenanya CodeIgniter memberikan kemudahan untuk diintegrasikan dengan library-library yang tersedia saat ini.</ol>
 <ol>Sedikit Konfigurasi. Konfigurasi CodeIgniter terletak di folder aplication/config. CodeIgniter tidak membutuhkan konfigurasi yang rumit, bahkan untuk mencoba menjalankannya, tanpa melakukan konfigurasi sedikitpun ia sudah bisa berjalan.
-Mudah dipelajari. Disamping dokementasi yang lengkap, ia juga memiliki berbagai forum diskusi.</ol>
- 
-
-Kekurangan CodeIgniter : 
-<ol>CodeIgniter tidak ditujukan untuk pembuatan web dengan skala besar.</ol> 
+Mudah dipelajari. Disamping dokementasi yang lengkap, ia juga memiliki berbagai forum diskusi.</ol> 
+    </ul>
+    </ul> 
+  
+    <ul type="square">
+        <li> Kekurangan CodeIgniter : 
+        </li>
+        <ul>
+        <ol>CodeIgniter tidak ditujukan untuk pembuatan web dengan skala besar.</ol> 
 <ol>Library yang sangat terbatas. Hal ini dikarenakan sangat sulit mencari plugin tambahan yang terverifikasi secara resmi, karena pada situsnya CodeIgniter tidak menyediakan plugin-plugin tambahan untuk mendukung pengembangan aplikasi dengan CI.</ol>
 <ol>Belum adanya editor khusus CodeIgniter sehingga dalam melakukan create project dan modul-modulnya harus berpindah-pindah folder.</ol>
 
-</ol>
+    </ul>
+    </ul> 
+ 
 	</div>
 	<div class="footer">
 		<center>Copyright &copy; 2018 - <a href="facebook.com/Shandi">ShandiM</a></center>

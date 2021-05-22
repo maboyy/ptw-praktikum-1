@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
- 		<title>Tugas 3</title>
+ 		<title>Praktikum1</title>
  		<link rel="stylesheet" type="text/css" href="{{asset('dist/style.css')}}">
 	</head>
 <body>
