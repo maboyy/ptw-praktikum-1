@@ -8,25 +8,26 @@
 </div>
 	<div class="menu">
 		<div id="heading">
-            <a href="#">PTW</a>
+            <a href="#">ShandiM</a>
         </div>
 		<ul id="navigasi">
-			<li><a href="index.html">List Materi</a></li>
- 			<li><a href="aboutme.html">Tentang Saya</a></li>
- 			<li><a href="contactus.html">Hubungi Saya</a>
+			<li><a href="/">Home</a></li>
+ 			<li><a href="/articles">Articles</a></li>
+ 			<li><a href="/contact">Contact</a>
  			</li>
 		</ul>
 	</div>
 
 	<div class="content">
-	<h1>Materi Pembelajaran :</h1>
+	<h1>Tugas Praktikum 1 </h1>
     <ul type="square">
-        <li>Html</li>
-        <li>CSS</li>
+        <li>Disini saya akan menjelaskan tentang kelebihan dan Kekurangan
+            Framework Codeingniter selengkapnya bisa dilihat dimenu article
+        </li>
     </ul>
 	</div>
 	<div class="footer">
-		<center>Copyright &copy; 2018 - <a href="facebook.com/lavonte12">AchmadS</a></center>
+		<center>Copyright &copy; 2018 - <a href="facebook.com/Shandi">ShandiM</a></center>
 	</div>
 </body>
 </html>

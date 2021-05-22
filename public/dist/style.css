@@ -5,7 +5,7 @@ body {
 
 .menu {
  display: block;
- background-color:#FF0000;
+ background-color:#00c3ff;
  height:46px;
 }
 
@@ -43,13 +43,14 @@ body {
 #navigasi a {
  display:block;
  padding:8px 16px;
- background-color:#FF0000;
+ background-color:#00c3ff;
  color:#fff;
  text-decoration:none;
+ font-weight:900;
 }
 
 #navigasi a:hover {
- background-color:#00BCD4;
+ background-color:#00c3ff;
  color:#fff;
 }
 
